@@ -4,6 +4,8 @@
 
 ## DISCLAIMER :
 
+📛Je tiens à dire que si vous planter votre Nintendo Switch ou Endomager je ne suis pas responsable mais plutot vous ! 📛
+
 ⚠️Fork de [SysBot.ACNHOrders](https://github.com/berichan/SysBot.ACNHOrders)⚠️
 Oui le bot vient de cette personne sauf le mien est modifier car cette personne à un comportement de merde qui bloque tout le monde de sont bot !
 J'ai fait une version modifier pour les personnes qui ont était bloqué pour aucune raison par cette personne !
@@ -34,6 +36,8 @@ Site tuto pour lancer du dotnet sur Raspberry :  [Tuto](https://www.petecodes.co
 # English
 
 ## DISCLAIMER:
+
+📛I would like to say that if you crash your Nintendo Switch or Endomager I am not responsible but rather you! 📛
 
 ⚠️Fork from [SysBot.ACNHOrders](https://github.com/berichan/SysBot.ACNHOrders)⚠️
 Yes the bot comes from this person except mine is modified because this person has a shitty behavior that blocks everyone from his bot!
