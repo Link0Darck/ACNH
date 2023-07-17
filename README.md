@@ -22,6 +22,12 @@ Pour vous lancer dans ce genre de bot il faut que vous y avez les competences et
 vous pouvez me posez des questions j'essayerais de vous aidez le plus possible !
 Je met en tant que Archive car il fermer sur le reseaux Neko-World Network le bot : 
 
+Site pour crée mes packs : [sdsetup](https://www.sdsetup.com/)
+
+Site pour verifier la switch si elle est patch ou non : [ismyswitchpatched](https://ismyswitchpatched.com/)
+
+Site tuto pour lancer du dotnet sur Raspberry :  [Tuto](https://www.petecodes.co.uk/install-and-use-microsoft-dot-net-5-with-the-raspberry-pi/)
+
 ## Support :
 [<img src="https://canary.discordapp.com/api/guilds/941750925649936404/widget.png?style=banner2">](https://discord.com/invite/nQHSgmnF2k)
 
@@ -46,6 +52,12 @@ I made a modified version for people who were blocked for no reason by this pers
 To start this kind of bot you must have the skills and do not ask for help to [Berichan](https://github.com/berichan) because it has a behavior of Kid and you risk to be ban as no reason!
 You can ask me questions and I'll try to help you as much as I can!
 I put as Archive because it close on Neko-World Network the bot : 
+
+Site to create my packs: [sdsetup](https://www.sdsetup.com/)
+
+Site to check if the switch is patched or not: [ismyswitchpatched](https://ismyswitchpatched.com/)
+
+Site tuto to launch dotnet on Raspberry: [Tuto](https://www.petecodes.co.uk/install-and-use-microsoft-dot-net-5-with-the-raspberry-pi/)
 
 ## Support :
 [<img src="https://canary.discordapp.com/api/guilds/941750925649936404/widget.png?style=banner2">](https://discord.com/invite/nQHSgmnF2k)
