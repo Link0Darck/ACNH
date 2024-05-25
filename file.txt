@@ -1,0 +1,7 @@
+BOT : https://github.com/berichan/SysBot.ACNHOrders
+EMULATEUR : https://github.com/Atmosphere-NX/Atmosphere
+sys-botbase : https://github.com/olliz0r/sys-botbase/releases
+ldn_mitm : https://github.com/spacemeowx2/ldn_mitm/releases
+hekate : https://github.com/CTCaer/hekate
+Check patch : https://ismyswitchpatched.com/
+dotnet : https://www.petecodes.co.uk/install-and-use-microsoft-dot-net-5-with-the-raspberry-pi/
